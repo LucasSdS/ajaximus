@@ -44,7 +44,8 @@
 </div>
 
 <!-- Navigation -->
-<nav class="navbar navbar-default" role="navigation">
+<div id="menu">
+<nav class="navbar navbar-default barra" role="navigation">
     <div class="container">
         <!-- Menu mobile -->
         <div class="navbar-header">
@@ -76,5 +77,7 @@
         </div>
         <!-- /.navbar-collapse -->
     </div>
+
     <!-- /.container -->
 </nav>
+</div>

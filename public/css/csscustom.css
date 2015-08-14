@@ -19,3 +19,18 @@
     border-top-right-radius: 0;
     border-top-left-radius: 0;
 }
+
+.margem{
+    margin-top: 20px;
+}
+
+.barra{
+    margin-bottom: 0;
+}
+
+.fixo {
+    position:fixed;
+    /*margin-top: 0px !important;*/
+    width: 100%;
+    z-index: 10;
+}

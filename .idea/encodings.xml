@@ -2,7 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/resources/views/contato.blade.php" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/resources/views/home.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/estatico/home.blade.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/resources/views/sobre.blade.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/resources/views/template/base.blade.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/resources/views/template/footer.blade.php" charset="UTF-8" />
